@@ -30,7 +30,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="820" height="876" alt="image" src="https://github.com/user-attachments/assets/ed840255-8961-42e8-9131-43feb70ea787" />
+
 </p>
 <p>
 Creating tickets as an end-user (e.g., reporting “entire mobile/online banking system is down”) is essential because it simulates real-world customer issues, initiating the ticket lifecycle. This step drives the help desk’s core function of receiving and addressing user problems.
@@ -38,7 +39,7 @@ Creating tickets as an end-user (e.g., reporting “entire mobile/online banking
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="960" height="953" alt="image" src="https://github.com/user-attachments/assets/ed3eb09c-4fcb-4ae5-bd3a-36a9d9b14ead" />
 </p>
 <p>
 Observing ticket properties (Priority, Department, SLA, Assigned To) and setting them (e.g., Sev-A with 1-hour SLA, Online Banking Department) is critical for proper ticket triage. This ensures tickets are prioritized, assigned to the correct team, and handled within defined timeframes, aligning with service expectations.
