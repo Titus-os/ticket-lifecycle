@@ -47,8 +47,7 @@ Observing ticket properties (Priority, Department, SLA, Assigned To) and setting
 <br />
 
 <p>
-<img width="958" height="315" alt="image" src="https://github.com/user-attachments/assets/76d99015-c829-4264-b7af-e8f0bf5b9a57" /><img width="958" height="315" alt="image" src="https://github.com/user-attachments/assets/ebcfc63b-dbcd-4b0e-b279-55aa08d7d3d5" />
-
+<img width="958" height="315" alt="image" src="https://github.com/user-attachments/assets/76d99015-c829-4264-b7af-e8f0bf5b9a57" />
 <img width="963" height="559" alt="image" src="https://github.com/user-attachments/assets/15abb55b-4681-431b-b4e1-6a860f0f8975" />
 </p>
 <p>
