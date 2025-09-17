@@ -49,6 +49,8 @@ Observing ticket properties (Priority, Department, SLA, Assigned To) and setting
 <p>
 <img width="958" height="315" alt="image" src="https://github.com/user-attachments/assets/76d99015-c829-4264-b7af-e8f0bf5b9a57" />
 <img width="963" height="559" alt="image" src="https://github.com/user-attachments/assets/15abb55b-4681-431b-b4e1-6a860f0f8975" />
+<img width="959" height="922" alt="image" src="https://github.com/user-attachments/assets/f2256daa-9a6b-433b-b613-cd3654ee6876" />
+<img width="957" height="917" alt="image" src="https://github.com/user-attachments/assets/1ed69b45-a26b-4c18-b5cb-e33328d9bfee" />
 </p>
 <p>
 Working tickets to completion as specific agents (e.g., Jane for the banking ticket, John for Adobe and CFO laptop issues) is vital as it represents the core resolution process. This step demonstrates how agents address user issues, update statuses, and close tickets, ensuring customer satisfaction.
